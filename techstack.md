@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 swadhin1515/cal.com is built on the following main stack:
+
 - [Stripe](https://stripe.com) – Payment Services
 - [Twilio](http://www.twilio.com) – Voice and SMS
 - [Heroku](https://www.heroku.com) – Platform as a Service
@@ -33,11 +34,13 @@ swadhin1515/cal.com is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 swadhin1515/cal.com is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
 - <img width='25' height='25' src='https://img.stackshare.io/service/130/VrwpNfjh_400x400.png' alt='Twilio'/> [Twilio](http://www.twilio.com) – Voice and SMS
 - <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
@@ -69,14 +72,15 @@ swadhin1515/cal.com is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/cal.com](https://github.com/swadhin1515/cal.com)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|101<br/>Tools used|11/10/23 <br/>Report generated|
+|104<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -422,9 +426,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (63)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (66)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (63)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (66)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -453,6 +457,7 @@ Full tech stack [here](/techstack.md)
 |[copy-webpack-plugin](https://www.npmjs.com/copy-webpack-plugin)|v11.0.0|08/26/22|Alex van Andel |MIT|N/A|
 |[dayjs](https://www.npmjs.com/dayjs)|v1.11.2|08/17/22|depfu[bot] |MIT|N/A|
 |[detect-port](https://www.npmjs.com/detect-port)|v1.3.0|05/30/23|GitStart-Cal.com |MIT|N/A|
+|[downshift](https://www.npmjs.com/downshift)|v6.1.9|08/29/22|depfu[bot] |MIT|N/A|
 |[entities](https://www.npmjs.com/entities)|v2.2.0|03/13/23|Nafees Nazik |BSD-2-Clause|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.6.0|04/19/23|Omar López |MIT|N/A|
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.2.1|04/19/23|Omar López |MIT|N/A|
@@ -462,9 +467,11 @@ Full tech stack [here](/techstack.md)
 |[googleapis](https://www.npmjs.com/googleapis)|v84.0.0|08/18/21|Alex Johansson |Apache-2.0|N/A|
 |[gray-matter](https://www.npmjs.com/gray-matter)|v4.0.3|04/04/22|Omar López |MIT|N/A|
 |[handlebars](https://www.npmjs.com/handlebars)|v4.7.7|02/17/23|Efraín Rochín |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|07/26/23|nicktrn |MIT|N/A|
 |[ink](https://www.npmjs.com/ink)|v3.2.0|06/07/22|Hariom Balhara |MIT|N/A|
 |[isarray](https://www.npmjs.com/isarray)|v0.0.1|04/15/22|Agusti Fernandez |MIT|N/A|
 |[jimp](https://www.npmjs.com/jimp)|v0.16.1|11/18/22|zomars |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v12.5.0|03/15/23|Omar López |MIT|N/A|
 |[lru-cache](https://www.npmjs.com/lru-cache)|v4.1.5|04/18/23|Nafees Nazik |ISC|N/A|
 |[markdown-it](https://www.npmjs.com/markdown-it)|v13.0.1|06/22/23|Omar López |MIT|N/A|
 |[md5](https://www.npmjs.com/md5)|v2.3.0|03/10/21|Bailey Pumfleet |BSD-3-Clause|N/A|
@@ -495,4 +502,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
