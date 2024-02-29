@@ -3,35 +3,35 @@
 ## Tech Stack
 swadhin1515/cal.com is built on the following main stack:
 
-- [Stripe](https://stripe.com) – Payment Services
-- [Twilio](http://www.twilio.com) – Voice and SMS
-- [Heroku](https://www.heroku.com) – Platform as a Service
-- [PHP](http://www.php.net/) – Languages
-- [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- [PHP](http://www.php.net/) – Languages
+- [Python](https://www.python.org) – Languages
 - [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [Nodemailer](http://www.nodemailer.com/) – Transactional Email
-- [ESLint](http://eslint.org/) – Code Review
-- [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [i18next](https://www.i18next.com/) – Translation Service
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- [highlight.js](https://highlightjs.org/) – Text Editor
-- [Prettier](https://prettier.io/) – Code Review
-- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [Storybook](https://storybook.js.org/) – JavaScript Framework Components
 - [Zustand](https://github.com/react-spring/zustand) – State Management Library
+- [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [ESLint](http://eslint.org/) – Code Review
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Prettier](https://prettier.io/) – Code Review
+- [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [highlight.js](https://highlightjs.org/) – Text Editor
+- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- [Heroku](https://www.heroku.com) – Platform as a Service
+- [Stripe](https://stripe.com) – Payment Services
+- [Twilio](http://www.twilio.com) – Voice and SMS
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Nodemailer](http://www.nodemailer.com/) – Transactional Email
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [i18next](https://www.i18next.com/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -41,35 +41,35 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 swadhin1515/cal.com is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
-- <img width='25' height='25' src='https://img.stackshare.io/service/130/VrwpNfjh_400x400.png' alt='Twilio'/> [Twilio](http://www.twilio.com) – Voice and SMS
-- <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2862/qr2-jCLr.jpg' alt='Nodemailer'/> [Nodemailer](http://www.nodemailer.com/) – Transactional Email
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' alt='Visual Studio Code'/> [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png' alt='i18next'/> [i18next](https://www.i18next.com/) – Translation Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png' alt='highlight.js'/> [highlight.js](https://highlightjs.org/) – Text Editor
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg' alt='Prisma'/> [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/9240/sOct-Txm_400x400.png' alt='Storybook'/> [Storybook](https://storybook.js.org/) – JavaScript Framework Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/11559/zustand.png' alt='Zustand'/> [Zustand](https://github.com/react-spring/zustand) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg' alt='Prisma'/> [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' alt='Visual Studio Code'/> [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png' alt='highlight.js'/> [highlight.js](https://highlightjs.org/) – Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
+- <img width='25' height='25' src='https://img.stackshare.io/service/130/VrwpNfjh_400x400.png' alt='Twilio'/> [Twilio](http://www.twilio.com) – Voice and SMS
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2862/qr2-jCLr.jpg' alt='Nodemailer'/> [Nodemailer](http://www.nodemailer.com/) – Transactional Email
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png' alt='i18next'/> [i18next](https://www.i18next.com/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -80,7 +80,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/cal.com](https://github.com/swadhin1515/cal.com)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|104<br/>Tools used|01/05/24 <br/>Report generated|
+|104<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
