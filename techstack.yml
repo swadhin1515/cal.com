@@ -2,7 +2,7 @@ repo_name: swadhin1515/cal.com
 report_id: e0a3cee48711fae06f3ed926b331d6af
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:59:24+00:00'
+timestamp: '2024-02-29T18:30:01+00:00'
 requested_by: CarinaWolli
 provider: github
 branch: main
@@ -102,7 +102,7 @@ tools:
   last_updated_by: sean-brydon
   last_updated_on: 2022-11-04 15:40:46.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.4.6
   open_source: true
@@ -246,7 +246,7 @@ tools:
   last_updated_by: Eric Dantas
   last_updated_on: 2023-06-17 15:47:29.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.3.0
   license: MIT
